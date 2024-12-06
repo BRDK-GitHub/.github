@@ -23,3 +23,4 @@ For assistance, please contact:
 - Andreas Poulsen: andreas.poulsen@br-automation.com
 - Frank Kjaerhus: frank.kjaerhus@br-automation.com
 
+![Automation Geeks](https://github.com/BRDK-GitHub/.github/blob/main/profile/img/AutomationGeeks-Logo_final_Square.png)
